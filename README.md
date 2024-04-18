@@ -2,7 +2,7 @@
 
 
 #### TOC
-
+0. Introduction
 1. Preliminaries
 2. Dimensionality Reduction
 3. Clustering
